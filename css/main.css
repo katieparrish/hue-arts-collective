@@ -1,0 +1,261 @@
+body{
+		font-family: dolly-small-caps-new,sans-serif;
+		color: #E6F1F4;
+		background-color:#868E90 ;
+		font-size:  30px;
+}
+p {
+ font-size: 30px;
+}
+@media screen and (min-width: 40em){
+ p {
+ font-size: 1.5rem;
+ }
+}
+@media screen and (min-width: 64em){
+ p {
+ font-size: 2rem;
+ }
+}
+@media screen and (min-width: 40em){
+ main {
+ display: flex;
+ justify-content: space-between;
+ }
+ main .main-content {
+ width: 100%;
+ }
+ main .side-content {
+ width: 100%;
+ }
+}
+a{
+	color: #E6F1F4;
+	text-decoration: none; 
+}
+.wwo {
+	font-family: louvette-banner, serif;
+	font-weight: 600;
+	font-style: italic;
+	font-size: 150%;
+	color: #D2601A;
+	text-align: center;
+}
+header{
+	background-color: #E6AA85;
+	padding: 1.5;
+	border-bottom: .5rem solid #D2601A;
+	text-align: center;}
+header a {
+	color: #D2601A;
+	font-size: 85%;
+text-align: center;}
+header a:hover {
+	color: #E6F1F4;
+	padding : 0rem;
+	background-color: none;
+  }
+
+header a:hover {
+	color: #E6F1F4;
+	padding : 0rem;
+	background-color: none;
+  }
+
+.logo{ 
+display: block;
+ margin-bottom: 1rem;}
+.hero {
+ position: relative;
+ background: url(../img/hero-1.png) no-repeat 50% 50%;
+ background-size: cover;
+ height: 70vh;
+}
+
+.hero-text{position:absolute; 
+text-align: center;}
+.hero-text h1 {
+	color: #E6F1F4 ;
+font-size: 3rem;
+margin: 0 0 1rem 0; line-height: 1;
+padding: 1rem
+}
+
+
+.hero-text a {
+	background-color:#D3A487 ;
+	color: #C64A1A;
+	padding: .5rem;
+	display:  inline-block;
+	border-radius: .25rem ;
+	margin-top:  1rem;
+	text-align: center;
+	
+}
+.but1 {text-align: center;}
+.homehours { background-color: #868E90; }
+ul{ font-size: 28px;
+	padding: 1rem;
+	margin: 0rem;
+	
+	list-style: inline;
+ text-align: center;}
+ 
+	main{
+	
+	color: #E6F1F4}}
+
+.bottom-left{
+  position: absolute;
+  top: 55%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  color: #E6F1F4;
+	font-family: louvette-banner, serif;
+	font-weight: 600;
+	font-style:  italic;
+font-size: 150%;
+}
+
+
+.gallerybox{background-color: #D2601A;}
+
+.shopbox{background-color: #D2601A;}
+
+.studiobox{background-color: #D2601A;}
+
+li{
+	display: inline-block;
+}
+
+h1{color: #E6F1F4; 
+	font-family: louvette-banner,serif;
+    font-style: italic;
+    text-align: center;}
+
+h2{
+	color: #E6AA85;
+	background-color:#868E90;
+font-family: louvette-banner, serif;
+font-weight: 600;
+font-style: italic;
+text-align: center;}
+.logo { display: block; margin-bottom: 1.5rem }
+img {background-image: hero-1.png;
+	width: 100%;}
+
+h3 { font-family: louvette-banner, serif;
+font-weight: 600;
+font-style:  italic;
+color:#E6F1F4; 
+font-size: 300%}
+
+h4 {color: #C64A1A;
+	background-color: #D2601A; 
+	font-family: dolly-small-caps-new,sans-serif;
+font-weight: 400;
+font-style: normal;
+
+}
+h5 {font-family: louvette-banner, serif;
+font-weight: 600;
+font-style:  italic;
+font-size: 200%;}
+
+h6 {font-family: louvette-banner, serif;
+font-weight: 600;
+font-style:  italic;
+font-size: 200%;}
+
+h7 {font-family: louvette-banner, serif;
+font-weight: 600;
+font-style:  italic;
+font-size: 200%;
+padding-left: 2rem;}
+}
+
+h3{
+	font-family: Dolly Pro;
+	color:E6F1F4 ;
+	background-color:E6F1F4 ;
+ }
+
+ .gal{background-color: #E6F1F4;
+ 	color: #E6AA85}
+ .side-content{ background-color: E6F1F4 ; }
+ .tickets {
+	background-color:#D3A487 ;
+	color: #C64A1A;
+	padding: 1rem;
+	display:  inline-block;
+	border-radius: .5rem ;
+	margin: 2rem;
+}
+}
+.browse{
+	background-color:#D3A487 ;
+	color: #C64A1A;
+	padding: 1rem;
+	display:  inline-block;
+	border-radius: .5rem ;
+	margin: 2rem;
+}
+
+.register{
+	background-color:#D3A487 ;
+	color: #C64A1A;
+	padding: 1rem;
+	display:  inline-block;
+	border-radius: .5rem ;
+	margin: 2rem;
+}
+.hours {text-align: center}
+footer {text-align: center;
+	background-color: #D2601A;}
+.fb{width: 15%;} .insta{width: 15%;}.twitter{width: 15%;}
+.home{color: #E6AA85; text-decoration: ;
+	
+}
+.services{color: #E6AA85; border: 1 px solid #fff;
+
+}
+.about{color: #E6AA85}
+.links1 {background-color: #E6AA85;
+width: 75%;
+margin: 4rem; }
+.links2 {background-color: #E6AA85;
+width: 75%;
+margin: 4rem;}
+.links3 {background-color: #E6AA85;
+width: 75%;
+margin: 4rem;}
+.links1 a:hover {
+	color: #D2601A;
+	padding : 0rem;
+	background-color: none;
+  }
+  .links2 a:hover {
+	color: #D2601A;
+	padding : 0rem;
+	background-color: none;
+  }
+   .links3 a:hover {
+	color: #D2601A;
+	padding : 0rem;
+	background-color: none;
+  }
+  h10{ color:#D2601A ; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
